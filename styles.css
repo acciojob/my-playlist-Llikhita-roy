@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#cccccc;
+}
+h1,h2,h3{
+	text-align:center;
+}
+.songs{
+	background-color:white;
+	border: 1px solid black; 
+	padding :10px;
+	border-radius:10px
+}
+.videos{
+	background-color:white;
+	border: 1px solid black;
+	margin-left:200px;
+	margin-right:105px;
+	border-radius:10px;
+}
+video{
+	padding:10px
+}
+audio{
+	padding:20px;
+	color:white;
+}
